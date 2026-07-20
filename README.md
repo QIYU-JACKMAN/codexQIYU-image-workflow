@@ -4,7 +4,7 @@
 
 英文名称：**Ecommerce Image Generation Workflow**  
 开发者：**启宇跨境**
-跨境毒蛇说-JACKMAN
+跨境毒舌说-JACKMAN
 亚马逊官方合作讲师
 亚马逊多年卖家
 AI+电商融合落地顾问
