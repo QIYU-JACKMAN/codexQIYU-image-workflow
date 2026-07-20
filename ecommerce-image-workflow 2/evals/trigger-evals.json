@@ -1,0 +1,50 @@
+[
+  {
+    "query": "我有三张产品图，帮我做一套电商图，但我还不知道该选哪种流程",
+    "should_trigger": "ecommerce-image-workflow"
+  },
+  {
+    "query": "给这款咖啡杯快速做两张不同构图的白底商品图",
+    "should_trigger": "ecommerce-quick-generate"
+  },
+  {
+    "query": "这些是我用手机随手拍的商品照片，帮我自动精修得更专业，但不要改变产品",
+    "should_trigger": "ecommerce-phone-photo-retouch"
+  },
+  {
+    "query": "用这些产品照片规划 Amazon 五张主图和六屏 A+，先给我看分镜",
+    "should_trigger": "ecommerce-detail-main-images"
+  },
+  {
+    "query": "按我这段品牌角色说明自由拆成八张连贯的详情图",
+    "should_trigger": "ecommerce-custom-batch"
+  },
+  {
+    "query": "照着这张参考图一比一复刻构图和版式，但把产品换成我的咖啡机",
+    "should_trigger": "ecommerce-exact-replication"
+  },
+  {
+    "query": "参考这张图的科技感调性，给我的耳机裂变四个不同构图",
+    "should_trigger": "ecommerce-style-variation"
+  },
+  {
+    "query": "把文件夹里的 12 张商品图批量适配成 1:1、4:5 和 9:16",
+    "should_trigger": "ecommerce-batch-resize"
+  },
+  {
+    "query": "20 个不同型号都套这一个 SKU 模板，型号文字在 CSV 里按商品文件名对应",
+    "should_trigger": "ecommerce-batch-sku"
+  },
+  {
+    "query": "只把场景图右下角框选区域里的耳机替换成我的产品，其他区域别动",
+    "should_trigger": "ecommerce-local-region-replacement"
+  },
+  {
+    "query": "分析这张图片的 EXIF 和拍摄设备",
+    "should_trigger": null
+  },
+  {
+    "query": "帮我剪一个 15 秒的商品口播视频",
+    "should_trigger": null
+  }
+]
